@@ -1,22 +1,7 @@
 # Dumeka Asallalage
 
-Software Engineer & Founder of [Likode Ltd](https://likode.com).
+**Entrepreneur | Business Operations & Technology | Director at Likode Ltd**
 
-I build software products, automation and cloud solutions, with a focus on clear interfaces, practical business systems and maintainable engineering.
+My work spans business operations, technology and entrepreneurship, with a focus on practical projects, improving processes and developing digital solutions. I also serve as a director of [Likode Ltd](https://likode.com/), a UK-based technology company.
 
-## Engineering interests
-
-- Web applications and digital products
-- Workflow and business automation
-- Structured data and system integrations
-- Reliable, accessible and reusable software
-
-## Technologies
-
-PHP · JavaScript · WordPress · HTML · CSS · JSON · Git / GitHub
-
-## Likode
-
-Through Likode Ltd, I focus on turning ideas and business needs into useful software.
-
-[Company website](https://likode.com) · [Likode on GitHub](https://github.com/LikodeLtd) · [LinkedIn](https://www.linkedin.com/in/dumekalk)
+[Website](https://likode.com/) · [LinkedIn](https://www.linkedin.com/in/dumekalk) · [Likode on GitHub](https://github.com/LikodeLtd)
